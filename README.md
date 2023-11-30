@@ -2,7 +2,7 @@
 ## Challenge: How might we predict a negative viral social media campaign targeted at a brand and prevent it from occurring?
 ### Product: Virality Prediction and Alerting System on Brand Campaigns
 ### Prototype:
-<img width="571" alt="Screenshot 2023-11-30 at 11 35 43 AM" src="https://github.com/arianab68/Product-Studio/assets/70418227/6e134736-d0dc-4e6b-bc28-91718f99fb36">
+<img width="555" alt="Screenshot 2023-11-30 at 4 14 34 PM" src="https://github.com/arianab68/Product-Studio/assets/70418227/9a74be4c-3af5-4a4f-baf9-0c88782f0a72">
 
 
 ## Process:
